@@ -1,8 +1,8 @@
-{
+﻿{
     "__DTOJSON__": true,
     "LANGUAGE": "Azərbaycanca",
     "LANGCODE": "AZ",
-    "AUTHOR": "@umudmmmdov1",
+    "AUTHOR": "@sahibziko",
     "STRINGS": {
         "MAIN": {
             "INVALID_KEY": "(!) API Key səhvdir.",
