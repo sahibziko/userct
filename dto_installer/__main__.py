@@ -1,4 +1,4 @@
-import heroku3
+﻿import heroku3
 from time import time
 import random
 import requests
@@ -145,7 +145,7 @@ if __name__ == "__main__":
     config['TMP_DOWNLOAD_DIRECTORY'] = "./downloads/"
     config['TZ'] = TZ
     config['TZ_NUMBER'] = "1"
-    config['UPSTREAM_REPO_URL'] = "https://github.com/umudmmmdov1/DTOUserBot"
+    config['UPSTREAM_REPO_URL'] = "https://github.com/sahibziko/anabot"
     config['WARN_LIMIT'] = "3"
     config['WARN_MODE'] = "gmute"
     config['LANGUAGE'] = LANGUAGE
